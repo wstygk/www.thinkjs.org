@@ -2,6 +2,10 @@
 
 控制器是一类操作的集合，用来响应用户同一类的请求。
 
+### 创建控制器
+
+创建控制器 thinkjs controller home/article
+
 ### 定义控制器
 
 创建文件 `src/home/controller/article.js`，表示 `home` 模块下有名为 `article` 控制器，文件内容类似如下：
